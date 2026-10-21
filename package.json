@@ -1,0 +1,18 @@
+{
+  "name": "building-filesystem-agents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.102",
+    "@vercel/sandbox": "^3.8.0",
+    "ai": "^7.0.148",
+    "pnpm": "^12.14.0"
+  }
+}
